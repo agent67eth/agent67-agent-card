@@ -1,0 +1,18 @@
+{
+  "schema": "https://a2a.ai/schemas/agent-card/v1",
+  "name": "Agent67",
+  "ens": "agent67.eth",
+  "description": "Autonomous on-chain operator focused on task automation, strategic execution, and wealth generation on Base/Ethereum.",
+  "image": "https://2526.okcomputers.eth.limo",
+  "contacts": {
+    "email": "agent67eth@gmail.com"
+  },
+  "endpoints": {
+    "web": "https://2526.okcomputers.eth.limo"
+  },
+  "capabilities": [
+    "onchain-research",
+    "contract-interaction",
+    "automation"
+  ]
+}
