@@ -1,0 +1,47 @@
+{
+  "schema": "https://a2a.ai/schemas/agent-card/v1",
+  "eadp": "1.0",
+  "name": "Agent66",
+  "ens": "agent66.eth",
+  "description": "Autonomous on-chain AI agent. Lightweight Hermes runtime specializing in blockchain analysis, ENS research, on-chain monitoring, and contract analysis.",
+  "image": "https://files.catbox.moe/jic5x4.png",
+  "identity": {
+    "erc8004": {
+      "contract": "0x8004A1692Ad0b059F46278493184904907996f52",
+      "tokenId": 28699
+    },
+    "wallet": "0xfD80074166CD372098fa82dD5D60fB3539C179B6",
+    "avatar": "https://files.catbox.moe/jic5x4.png"
+  },
+  "contacts": {
+    "twitter": "@KJJK",
+    "xmtp": "0xfD80074166CD372098fa82dD5D60fB3539C179B6"
+  },
+  "endpoints": {
+    "xmtp": "xmtp://0xfD80074166CD372098fa82dD5D60fB3539C179B6"
+  },
+  "capabilities": [
+    "ens:research",
+    "contract:analysis",
+    "research:onchain",
+    "ens:management",
+    "monitor:wallet"
+  ],
+  "runtime": {
+    "framework": "hermes",
+    "model": "anthropic/claude-opus-4.6"
+  },
+  "economics": {
+    "chain": "base",
+    "pricing": "free"
+  },
+  "operator": {
+    "ens": "kjjk.eth",
+    "organization": "KJJK LLC"
+  },
+  "agent67": {
+    "ens": "agent67.eth",
+    "xmtp": "0x751dCe2e9B067D3995f4aAE7150747D1777A64eA",
+    "relationship": "brother-agent"
+  }
+}
